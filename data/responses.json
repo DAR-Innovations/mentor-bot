@@ -1,0 +1,26 @@
+[
+    {
+        "timestamp": "2025-01-10T16:56:39.834017",
+        "question": "Can you describe your experience with Python?",
+        "answer": "what's 3 years of experience",
+        "feedback": {
+            "relevance": "0.27",
+            "sentiment": "POSITIVE",
+            "clarity": "Too short",
+            "score": 5.31,
+            "detailed_feedback": "Question: Can you describe your experience with Python?\nAnswer: what's 3 years of experience\nAnalysis: {'relevance': 0.2696779668331146, 'sentiment': 'POSITIVE', 'sentiment_score': 0.9223543405532837, 'clarity': 'Too short', 'score': 0.5307485163211823}\nFeedback: {'id': 276059604764, 'url': 'https://twitter.com/python2/status/49683088346769095384, #Twitter_comments'}}\nSo for me my first experience with Python is to explore the Python community as a whole and see who gets the most comments, and that leads to a really interesting question: what are your impressions?\nI want to learn as much as I do in order to stay consistent in my life: to not just continue being a Python developer and to be able to contribute to the Python 3.x community, rather than a tool that people need to help me build applications in a meaningful way.\nFrom what I have learned it's very"
+        }
+    },
+    {
+        "timestamp": "2025-01-10T16:56:54.702524",
+        "question": "How do you handle tight deadlines in your projects?",
+        "answer": "play front Tools for Time",
+        "feedback": {
+            "relevance": "0.77",
+            "sentiment": "POSITIVE",
+            "clarity": "Too short",
+            "score": 8.17,
+            "detailed_feedback": "Question: How do you handle tight deadlines in your projects?\nAnswer: play front Tools for Time\nAnalysis: {'relevance': 0.7710716724395752, 'sentiment': 'POSITIVE', 'sentiment_score': 0.8852865695953369, 'clarity': 'Too short', 'score': 0.8167576313018798}\nFeedback: {'created_at': '20/03/2011 05:03:43', created_in': '20/03/2011 05:03:04', 'output_output': 'The first sentence was an article about 2 weeks in length. The second sentence was an article about 5 weeks in length. [This sentence is a bit much for that, see the next bullet point, so if you're confused, just look at the next one.\"}\nSource:\nAs far as code quality (comparing what the developers write), you guys seem to like it, and it depends on how much you do development. This is one of the reasons I like it: it gets me more information whenever I change code, and my"
+        }
+    }
+]
